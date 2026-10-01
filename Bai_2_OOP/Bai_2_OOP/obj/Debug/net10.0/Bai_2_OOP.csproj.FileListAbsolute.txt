@@ -1,0 +1,14 @@
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\bin\Debug\net10.0\Bai_2_OOP.exe
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\bin\Debug\net10.0\Bai_2_OOP.deps.json
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\bin\Debug\net10.0\Bai_2_OOP.runtimeconfig.json
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\bin\Debug\net10.0\Bai_2_OOP.dll
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\bin\Debug\net10.0\Bai_2_OOP.pdb
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\obj\Debug\net10.0\Bai_2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\obj\Debug\net10.0\Bai_2_OOP.AssemblyInfoInputs.cache
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\obj\Debug\net10.0\Bai_2_OOP.AssemblyInfo.cs
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\obj\Debug\net10.0\Bai_2_OOP.csproj.CoreCompileInputs.cache
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\obj\Debug\net10.0\Bai_2_OOP.dll
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\obj\Debug\net10.0\refint\Bai_2_OOP.dll
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\obj\Debug\net10.0\Bai_2_OOP.pdb
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\obj\Debug\net10.0\Bai_2_OOP.genruntimeconfig.cache
+D:\LT.NET\Bai_2_OOP\Bai_2_OOP\obj\Debug\net10.0\ref\Bai_2_OOP.dll
