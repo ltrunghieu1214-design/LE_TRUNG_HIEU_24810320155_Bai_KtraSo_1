@@ -1,4 +1,4 @@
-# L-TRUNG-HI-U_24810320155_Bai_KtraSo_1
+# LE_TRUNG_HIEU_24810320155_Bai_KtraSo_1
 Câu 1: Trình bày sự khác nhau giữa Value Types và Reference Types (Stack vs Heap)
 Value Types (Kiểu giá trị):
 
